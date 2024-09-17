@@ -24,6 +24,8 @@ iris = px.data.iris()
 # 3. Erstelle dein App-Objekt
 app = Dash()
 
+server= app.server
+
 # 4. KOMPONENTEN-ERSTELLUNG
 # ------------
 # 4.1. Erstelle ein Histogramm von petal_width und eines von petal_length.
