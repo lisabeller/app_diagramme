@@ -1,4 +1,4 @@
 dash==2.6.0
 Pandas
-plotly.express
-plotly.graph_objects 
+plotly
+gunicorn
